@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    line-height: 5em;
+    height: 100vh;
+    padding-top: 10em;
+}
+
+h1{
+    text-transform: capitalize;
+    font-size: 3em;
+}
+
+#value{
+    font-size: 3em;
+}
+
+.btn{
+    font-size: 1.2em;
+    margin: auto 0.5em;
+    padding: 7px 13px;
+    border-radius: 15px;
+}
